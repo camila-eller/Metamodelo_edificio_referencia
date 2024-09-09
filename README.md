@@ -1,1 +1,3 @@
-# Metamodelo_edificio_referencia
+# Modelo de Referência de Edificação Residencial Multifamiliar
+
+Este repositório é parte de uma pesquisa
